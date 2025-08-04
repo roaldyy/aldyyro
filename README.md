@@ -6,4 +6,4 @@
 <h2>Rocio Medina </h2>
 </head>
 <body style="background-color:#CD86C3">
-<a ="html.intex"> Cuento balneario La Floresta 
+<a =" "> Cuento balneario La Floresta
