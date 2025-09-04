@@ -1,2 +1,10 @@
 body {
-  blackgroud- color: lightblue;#CD86C3
+  blackground-color:#CD86C3;
+}
+p { 
+  font-family: Arial;
+}
+img {
+  width: 200px;
+  border: 200px;
+}
